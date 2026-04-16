@@ -1,7 +1,7 @@
 
 
 <!--
-**quabynahdaavis/quabynahdaavis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**quabynahdavis/quabynahdavis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 - 📫 **Reach Me**
   - Telegram: [@Davisville](https://t.me/quabynahdavis)
-  - GitHub: [@Davisville](https://github.com/quabynahdaavis)
+  - GitHub: [@Davisville](https://github.com/quabynahdavis)
 
 - 😄 **Pronouns**: `He / Him`
 
@@ -56,13 +56,13 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 
 <!--div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=quabynahdaavis&show_icons=true&theme=radical&hide_border=true&border_radius=12" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quabynahdaavis&theme=radical&hide_border=true&border_radius=12" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=quabynahdavis&show_icons=true&theme=radical&hide_border=true&border_radius=12" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quabynahdavis&theme=radical&hide_border=true&border_radius=12" width="48%" />
 </div-->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quabynahdaavis&layout=compact&theme=radical&hide_border=true&border_radius=12&langs_count=8" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=quabynahdaavis&theme=radical&utcOffset=+5.5" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quabynahdavis&layout=compact&theme=radical&hide_border=true&border_radius=12&langs_count=8" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=quabynahdavis&theme=radical&utcOffset=+5.5" width="48%" />
 </div>
 
 ---
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Trophy Wall
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=quabynahdaavis&theme=radical&no-frame=true&margin-w=10&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=quabynahdavis&theme=radical&no-frame=true&margin-w=10&column=6" />
 </p>
 
 ---
@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=quabynahdaavis&theme=react-dark&hide_border=true&area=true&custom_title=Davisville%27s%20Contribution%20Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=quabynahdavis&theme=react-dark&hide_border=true&area=true&custom_title=Davisville%27s%20Contribution%20Graph" />
 </p>
 
 ---
@@ -87,13 +87,13 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://t.me/quabynahdavis"><img src="https://img.shields.io/badge/Telegram-Bot-blue?style=for-the-badge&logo=telegram" /></a>
-  <a href="https://github.com/quabynahdaavis"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/quabynahdavis"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=quabynahdaavis&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=quabynahdavis&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
 <p align="center"><b>Made with ❤️ by Davisville</b></p>
