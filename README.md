@@ -67,14 +67,6 @@ Here are some ideas to get you started:
 
 ---
 
-## 🏆 GitHub Trophy Wall
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=quabynahdavis&theme=radical&no-frame=true&margin-w=10&column=6" />
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
