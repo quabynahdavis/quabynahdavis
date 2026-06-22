@@ -16,7 +16,7 @@ I am a versatilist and easily adapt to different hats (Web/App Developer 🌐, M
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/quabynahdavis?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech or music related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [Telegram](https://t.me/quabynahdavis/)
-- 🎹 &nbsp; When I am free, I play the piano. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
+- 🎹 &nbsp; When I am free, I play the piano. Checkout some [Youtube](https://www.youtube.com/@LibraryofMusic) channels i follow
 
 <br>
 
