@@ -28,8 +28,8 @@ I am a versatilist and easily adapt to different hats (Web/App Developer 🌐, M
 
 
 ### 📊 Github Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quabynahdavis&layout=compact&theme=radical&hide_border=true&border_radius=12&langs_count=8" width="100%" height="500px"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=quabynahdavis&theme=radical&utcOffset=+5.5" width="500px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quabynahdavis&layout=compact&theme=radical&hide_border=true&border_radius=12&langs_count=8"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=quabynahdavis&theme=radical&utcOffset=+5.5"/>
 <br>
 
 ### 🛠️ My Projects
