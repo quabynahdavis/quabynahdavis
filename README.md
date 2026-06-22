@@ -16,7 +16,7 @@ I am a versatilist and easily adapt to different hats (Web/App Developer 🌐, M
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/quabynahdavis?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech or music related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [Telegram](https://t.me/quabynahdavis/)
-- 🎹 &nbsp; When I am free, I play the piano. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
+- 🎹 &nbsp; When I am free, I play the piano. Checkout some [Youtube](https://www.youtube.com/@LibraryofMusic) channels i follow
 
 <br>
 
@@ -29,8 +29,9 @@ I am a versatilist and easily adapt to different hats (Web/App Developer 🌐, M
 
 ### 📊 Github Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quabynahdavis&layout=compact&theme=radical&hide_border=true&border_radius=12&langs_count=8" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=quabynahdavis&theme=radical&utcOffset=+5.5" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quabynahdavis&layout=compact&theme=radical&hide_border=true&border_radius=12&langs_count=8" width="100%"/>
+  <br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=quabynahdavis&theme=radical&utcOffset=+5.5" width="100%"/>
 </div>
 <br>
 
