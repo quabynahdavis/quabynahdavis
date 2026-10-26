@@ -37,7 +37,7 @@ I am a versatilist and easily adapt to different hats (Web/App Developer 🌐, M
   <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api?username=quabynahdavis&show_icons=true&theme=radical&hide_border=true&bg_color=0,ff9ecd,ffc2e0&title_color=ffffff&text_color=5c1046&icon_color=ffffff" alt="GitHub stats" />
   <img height="165" src="https://streak-stats.demolab.com/?user=quabynahdavis&hide_border=true&background=FFF&ring=dodgerblue&fire=blue&currStreakLabel=dodgerblue" alt="streak stats" />
   <br/>
-  <img width="60%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=quabynahdavis&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0,dodgerblue,ff9ecd&title_color=white&text_color=white" alt="top langs" />
+  <img width="60%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=quabynahdavis&layout=compact&langs_count=20&theme=radical&hide_border=true&bg_color=0,dodgerblue,ff9ecd&title_color=white&text_color=white" alt="top langs" />
 </div>
 <br>
 
